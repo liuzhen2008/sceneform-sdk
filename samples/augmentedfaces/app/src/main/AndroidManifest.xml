@@ -23,6 +23,7 @@
     <!-- Always needed for AR. -->
 
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- Indicates that this app requires Google Play Services for AR ("AR Required") and results in
          the app only being visible in the Google Play Store on devices that support ARCore.
          For an "AR Optional" app, remove this tag. -->
